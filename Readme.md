@@ -135,5 +135,4 @@ This project is **MIT Licensed**. Feel free to use and modify it as needed.
 ## 💡 Contributors
 - **Your Name** ([GitHub](https://github.com/kushalkhandhara))
 
----
-🚀 **Happy Coding!**
+ 
