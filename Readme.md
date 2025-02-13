@@ -133,7 +133,7 @@ The server will start on **http://localhost:5000**.
 This project is **MIT Licensed**. Feel free to use and modify it as needed.
 
 ## 💡 Contributors
-- **Your Name** ([GitHub](https://github.com/your-username))
+- **Your Name** ([GitHub](https://github.com/kushalkhandhara))
 
 ---
 🚀 **Happy Coding!**
